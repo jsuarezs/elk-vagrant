@@ -1,0 +1,8 @@
+<?php
+define('DB_NAME', 'wordDB');
+define('DB_USER', 'javier');
+define('DB_PASSWORD', 'javier00');
+define('DB_HOST', 'localhost');
+define('DB_COLLATE', 'utf8_general_ci');
+define('WP_CONTENT_DIR', '/usr/share/wordpress/wp-content');
+?>
